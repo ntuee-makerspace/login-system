@@ -5,7 +5,8 @@ Login system for NTUEE Makerspace <br>
 Press and scan! The user login information will be uploaded to Google Sheets
 
 ## How to Maintain
-[MKS 門禁機(RPI) Documentation](https://hackmd.io/3-hS8CHTTGiMYKgmgG8ijw?both)
+- [MKS 門禁機(RPI) Documentation](https://hackmd.io/3-hS8CHTTGiMYKgmgG8ijw?both) <br>
+- `pythonupload.json` contains confidential information. If you want to duplicate this work, you should follow Google Sheets API documentation and generate it yourself.
 
 ## Contributors
 | Contributors                                                                              | Content                          | Version | Date        |
